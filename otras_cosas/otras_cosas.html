@@ -1,0 +1,108 @@
+<!--
+
+Autor: Alejandro Olid
+Descripción: Página pasta
+
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel = "stylesheet" href="../css/style.css" />
+    </head>      
+<body>
+
+    <button class="botonConcurso" id="botonConcurso">
+        <p class="block">Nuestro concurso de recetas está a la vuelta de la esquina</p>
+        <b class="block">Haz click para más información</b>
+    </button>
+
+    <header class="sticky">
+        <figure> 
+            <img alt="Logo de la pagina" src="../Imagenes/Logo-Delicias.png" width="25%" height="25%">
+        </figure>
+          
+          <nav>
+              <ul class="enlaces">
+                  <a href="../index.html">INICIO</a>
+                  <a href="../sobre_mi/sobre_mi.html">SOBRE MÍ</a>
+                  <a href="../listado/listado.html">RECETAS</a>
+                  <a href="../contacto/contacto.html">CONTACTOS</a>
+                  <a href="../otras_cosas/otras_cosas.html">OTRAS COSAS</a>
+                  <a href="#" id="concurso">CONCURSO DE RECETAS</a> 
+              </ul>
+          </nav>
+    </header>
+
+<div class="clear"></div>
+
+<div class="overlay1" id="overlay1">
+    <div class="popup1" id="popup1">
+        <figure class="imagenPopup">
+            <img alt="Concurso de receta" src="../Imagenes/Concurs de Receptes.jpg" width="50%" height="50%">
+        </figure>
+
+        <h1> PARTICIPA EN NUESTRO CONCURSO DE RECETAS </h1>
+
+        <p> Podrás ganar increibles premios.</p>
+
+        <form>
+            <div class="inputs">
+                <input type="text" placeholder="Nombre">
+                <input type="email" placeholder="Correo">
+            </div>
+        </form>
+
+        <input type="submit" class="submit" value="Apuntarse">
+
+        <p> Más información en tu correo electrónico</p>
+
+        <a href="#" class="exit1" id="exit1">No, gracias</a>
+    </div>
+</div>
+
+        <div class="marginleft">
+            <figure class="foto_libro">
+                <img alt="Concurso de receta" src="../Imagenes/libro.png">
+            </figure>
+    
+            <h1> REGISTRATE ES TOTALMENTE GRATIS </h1>
+    
+            <p> Estarás al tanto de todas las novedades, formando parte de nuestra comunidad.</p>
+    
+            <form>
+                <input type="checkbox">
+                <label>¿Te gustaría recibir notificaciones?</label>
+            </form>
+    
+            <form method="get">
+                <div class="inputs">
+                    <input type="text" placeholder="Usuario">
+                    <input type="email" placeholder="Correo">
+                    <input type="password" placeholder="Contraseña">  
+                    <input type="reset" class="submit" value="Borrar información">
+                </div>
+            </form>
+    
+            <input type="submit" class="submit" value="Registrarse">
+            <b> ¿A qué esperas? </b> </br>
+        </div>
+
+<div class="clear"></div>
+
+    <footer class="contacto">
+        <ul>
+            <a href="https://www.facebook.com/">FACEBOOK</a>
+            <a href="https://www.Twitter.com/">TWITTER</a>
+            <a href="https://www.Instagram.com/">INSTAGRAM</a>
+            <a href="https://www.Pinterest.com/">PINTEREST</a>
+            <a href="https://www.gmail.com/">EMAIL</a>
+            <a href="#">RSS</a>
+        </ul>
+    </footer>
+
+    <script src="../popup.js"></script>
+
+</body>
+</html>

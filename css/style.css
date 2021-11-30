@@ -1,0 +1,421 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* barra de inicio */
+
+.sticky {
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    padding-top: 10px;
+}
+.enlaces {
+    height: 50px;
+    line-height: 50px;
+    border-top: 2px solid #8A8070;
+    border-bottom: 2px solid #8A8070;
+    text-align: center;
+    overflow: hidden;
+}
+
+.enlaces a {
+    margin-inline-start: 20px;  
+}
+
+.paginacion {
+    display: inline-block;
+    position: fixed;
+    right: 50px;
+}
+
+.paginacion a{
+    color: white;
+    text-decoration:none;
+}
+
+.paginacion a:hover{
+    color: black;
+}
+
+.num_pag {
+    background-color: rgb(201, 201, 201);
+    border: 1px solid black;
+    padding: 13px;
+    border-radius: 5%;
+}
+
+/* Concurso de recetas */
+
+.botonConcurso {
+    position: relative;
+    z-index: 100;
+    background-color: #7aba968e;
+    position: fixed;
+    left: 100px;
+    top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    width: 300PX;
+    height: 100px;
+}
+
+.botonConcurso:hover {
+    background-color: #7ABA96;
+}
+
+.botonConcurso.active {
+    opacity: 0;
+}
+
+.overlay1 {
+    background-color: rgba(0, 0, 0, 0.3);
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    visibility: hidden;
+}
+
+.overlay1.active{
+    visibility: visible;
+}
+
+.popup1 {
+    background-color: white;
+    box-shadow: 0px 0px 10px 0px  #8A8070;
+    width: 50%;
+    padding: 20px;
+    padding-right: 100px;
+    text-align: center;
+    transition: 2s ease all;
+    opacity: 0;
+}
+
+.popup1.active {
+    opacity: 1;
+}
+
+.imagenPopup {
+    float: left;
+}
+
+.inputs input {
+    height: 50px;
+    margin: 10px;
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid rgb(199, 184, 159);
+}
+
+.submit {
+    height: 50px;
+    width: 200px;
+    margin: 20px;
+    font-size: 20px;
+    transition: 0.5s;
+}
+
+.submit:hover {
+    background-color: #8A8070;
+}
+
+.exit1 {
+    color: black;
+    float: right;
+    transition: 0.5s;
+    text-decoration: none;
+}
+
+.exit1:hover {
+    color: #7ABA96;
+}
+
+/* Suscripción */
+
+.overlay2 {
+    background-color: rgba(0, 0, 0, 0.3);
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    visibility: hidden;
+}
+
+.overlay2.active{
+    visibility: visible;
+}
+
+.popup2 {
+    background-color: white;
+    box-shadow: 0px 0px 10px 0px  #8A8070;
+    width: 50%;
+    padding: 20px;
+    padding-right: 20px;
+    text-align: center;
+    transition: 2s ease all;
+    opacity: 0;
+}
+
+.popup2.active {
+    opacity: 1;
+}
+
+.exit2 {
+    color: black;
+    float: right;
+    transition: 0.5s;
+    text-decoration: none;
+}
+
+.exit2:hover {
+    color: #7ABA96;
+}
+
+/* Página principal */
+
+.general {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+figure {
+    text-align: center;  
+}
+
+/* Cajitas */
+
+.comentarios {
+    margin: 20px;
+    height: 50%;
+    width: 10%;
+    display: block;
+    float: right;
+}
+
+.personal {
+    margin: 20px;
+    width: 15%;
+    display: block;
+    float: left;
+}
+
+.blog {
+    text-align: center;
+    border: 1px solid gainsboro;
+    background-color:gainsboro;
+}
+
+.platos {
+    margin: 20px;
+    height: 30%;
+    width: 30%;
+    display: inline-block;
+}
+
+.nombre {
+    text-align: center;
+}
+
+.fecha {
+    text-align: center;  
+    border-top: 1px solid #7ABA96;
+    border-bottom: 1px solid #7ABA96;
+}
+.apuntame {
+    display: block;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;  
+    background-color: #7ABA96;
+}
+
+.logo {
+    text-align: center;
+}
+
+.clear {
+    clear: both;
+}
+
+.contacto {
+    height: 100px;
+    line-height: 100px;
+    background-color:  rgba(0, 0, 0, 0.9);
+    color: white;
+    text-align: center;
+}
+
+.contacto a {
+    margin-inline-start: 50px;  
+}
+
+/* Enlaces */
+
+.enlaces a {
+    color: black;
+    text-decoration:none;
+}
+
+.enlaces a:hover {
+    color: #7ABA96;
+}
+
+.apuntame a {
+    color: black;
+    text-decoration:none;
+} 
+
+.apuntame a:hover {
+    text-decoration:underline;
+}
+
+.nombre a {
+    color: black;
+    text-decoration:none;
+} 
+
+
+.nombre a:hover {
+    color: #8A8070;
+} 
+
+.contacto a {
+    color: white;
+    text-decoration:none;
+} 
+
+.contacto a:hover {
+    color: #7ABA96;
+}
+
+/* Recetas */
+
+.receta_descripcion {
+    height: 50px;
+    line-height: 50px;
+    left: 500px;
+    text-align: center;
+}
+
+.lista_ingredients1 {
+    float: right;
+    margin: 1%;
+    align-content: center;
+    background-color: rgb(255, 159, 159);
+    border: 1px solid black;
+    width: 20%;
+    height: 20%;
+}
+
+.lista_ingredients2 {
+    float: right;
+    margin: 1%;
+    align-content: center;
+    background-color: rgb(255, 159, 159);
+    border: 1px solid black;
+    padding: 10px ;
+    width: 25%;
+    height: 20%;
+}
+
+.titulo_receta {
+    text-align: center;
+}
+
+.foto_pasos {
+    padding: 20px;
+}
+
+.margin10 {
+    margin: 10px;
+}
+.lista_pasos {
+    display: inline-block;
+    margin: 1%;
+    background-color: gainsboro;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 10px;
+}
+
+.marginleft {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.foto_receta {
+    display: inline-block;
+}
+
+.video_receta {
+    margin: 2%;
+    float: right;
+    background-color: rgb(255, 159, 159);
+    text-align: center;
+    border: 1px solid black;
+}
+
+/* Listado de recetas */
+
+.ejemplo_receta {
+    text-align: left;
+    display: inline-block;
+    width: 60%;
+    background-color: gainsboro;
+    padding: 20px;
+    border-bottom: 2px solid black;
+}
+
+.ejemplo_receta a{
+    color: black;
+    text-decoration:none;
+}
+.ejemplo_receta a:hover {
+    color: #8A8070;
+}
+
+.foto_ejemplo_receta {
+    float: right;
+    width: 50%;
+    border: 1px solid black;
+    background-color: black;
+}
+
+.lista_recetas{
+    text-align: center;
+
+}
+
+.icono {
+    display: inline-block;
+}
+
+.lista_plato {
+    height: 50px;
+    line-height: 50px;
+}
+
+.margin20px {
+    margin: 20px;
+}
+
+.borderbot {
+    border-bottom: 1px solid black;
+    display: inline-block;
+}
+
+.foto_libro {
+    width: 25%;
+    height: 25%;
+    float: left;
+}
