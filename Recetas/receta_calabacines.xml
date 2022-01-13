@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="receta.xsl" type="text/xsl" ?>
+<listado>
+<receta>
+<titulo>
+CALABACINES RELLENOS DE ARROZ NEGRO Y CALABAZA
+</titulo>
+<descripcion>
+Este jugoso plato de arroz Brillante Sabroz con verduras es muy fácil de preparar, muy sano y perfecto para vegetarianos. Pertenece a nuestra cocina tradicional y se consume durante todo el año. Normalmente se come como primer plato.
+</descripcion>
+<video enlace="https://www.youtube.com/watch?v=zQE62cASIfM"/>
+<ingredientes>
+<ingrediente>400g de pasta</ingrediente>
+<ingrediente>200g de tomate triturado</ingrediente>
+<ingrediente>800ml de caldo de verduras</ingrediente>
+<ingrediente>2 Berenjenas</ingrediente>
+<ingrediente>1 Calabacín grande</ingrediente>
+<ingrediente>1 Cebolla</ingrediente>
+<ingrediente>Un puñado de queso rallado</ingrediente>
+<ingrediente>Sal y perejil</ingrediente>
+<ingrediente>Aceite</ingrediente>
+</ingredientes>
+<tiempo>
+30 minutos
+</tiempo>
+<pasos>
+<paso>
+Picamos la cebolla y los ajos y los sofreímos en una paellera con aceite de oliva.
+</paso>
+<paso>
+Lavamos bien el calabacín, el pimiento verde y las berenjenas, los cortamos en daditos y los añadimos a la paellera. Rehogamos un par de minutos y añadimos el tomate. 
+</paso>
+<paso>
+Añadimos el arroz Brillante Sabroz, removemos bien y echamos el caldo de verduras.
+</paso>
+<paso>
+Ponemos a punto de sal y dejamos cocer a fuego medio hasta que se haga el arroz.
+</paso>
+<paso>
+Espolvoreamos con un poco de perejil picado y dejamos reposar unos minutos antes de servir.
+</paso>
+</pasos>
+<fotos_pasos>
+<foto_paso ruta="../Imagenes/cebollas.jpg" width="100%"/>
+<foto_paso ruta="../Imagenes/cebollafrita.jpg" width="100%"/>
+<foto_paso ruta="../Imagenes/pasta-en-la-olla.jpg" width="100%"/>
+<foto_paso ruta="../Imagenes/Pasta.jpg" width="100%"/>
+</fotos_pasos>
+</receta>
+</listado>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="receta.xsl" type="text/xsl" ?>
+<listado>
+<receta>
+<titulo>
+MIJO CREMOSO CON LENTEJAS, HORTALIZAS Y SHIITAKE
+</titulo>
+<descripcion>
+Un buen plato de mijo cremoso con lentejas y hortalizas es todo lo que necesitas para templar el cuerpo este invierno! Delicioso y fácil! 
+</descripcion>
+<video enlace="https://youtu.be/TqY1NK8MDt4"/>
+<ingredientes>
+<ingrediente>100g de mijo pelado</ingrediente>
+<ingrediente>100g de guisantes congelados</ingrediente>
+<ingrediente>1 cebolla roja</ingrediente>
+<ingrediente>300g de champiñones preparados</ingrediente>
+<ingrediente>3 ramitos de perejil</ingrediente>
+<ingrediente>40g de chorizo picante cortado a daditos</ingrediente>
+<ingrediente>Sal, pimienta</ingrediente>
+</ingredientes>
+<tiempo>
+30 minutos
+</tiempo>
+<pasos>
+<paso>
+Empezamos cociendo el mijo previamente lavado y escurrido con 200 ml de agua hirviendo con una pizca de sal. Cubrimos y dejamos cocer a fuego suave hasta que ya no quede agua.
+</paso>
+<paso>
+Pelamos la cebolla y la cortamos en juliana fina, la salteamos con el aceite de oliva y cuando tomen un poco de color, añadimos los champiñones cortados en láminas. Cuando casi estén listos, echamos los guisantes, salteamos 3 minutos más y reservamos.
+</paso>
+<paso>
+Cortamos en chorizo en taquitos, lo salteamos unos minutos en una sartén sin grasa hasta que esté dorado y crujiente, reservamos sobre papel de cocina.
+</paso>
+<paso>
+Añadimos las setas, los guisantes salteados y el chorizo. Mezclamos bien y servimos caliente.
+</paso>
+<paso>
+En casa lo acompañamos con una ensalada de champiñones aliñada con vinagreta de limón y aceite de oliva.
+</paso>
+<paso>
+Añadimos las setas, los guisantes salteados y el chorizo. Mezclamos bien y servimos caliente.
+</paso>
+</pasos>
+</receta>
+</listado>

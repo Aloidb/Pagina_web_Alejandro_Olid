@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="receta.xsl" type="text/xsl" ?>
+<listado>
+<receta>
+<titulo>
+GALLETAS DE AVENA ROSA Y LIMA
+</titulo>
+<descripcion>
+Galletitas para San Valentín? Estas galletas ricas y crujientes, elaboradas con avena y con un rico sabor a rosa y lima son perfectas para celebrarlo! 
+</descripcion>
+<video enlace="https://youtu.be/1B8OzcShDJQ"/>
+<ingredientes>
+<ingrediente>90 g de mantequilla</ingrediente>
+<ingrediente>40 g de azúcar glas</ingrediente>
+<ingrediente>1/2 cucharada de aroma de vainilla</ingrediente>
+<ingrediente>1 pizca de sal (unos 2 g)</ingrediente>
+<ingrediente>Un puñado de queso rallado</ingrediente>
+<ingrediente>80 g de azúcar glas para cubrir las galletas</ingrediente>
+</ingredientes>
+<tiempo>
+30 minutos
+</tiempo>
+<pasos>
+<paso>
+Mezclar la harina, la harina de maíz y la sal en un bol, y añadir a la mezcla de mantequilla. Mezclar a baja velocidad hasta que se mezcle bien.
+</paso>
+<paso>
+Hacer un cilindro con la masa y envolver en papel film, o en una hoja de silicona para horno. Poner en el frigorífico al menos una hora.
+</paso>
+<paso>
+Precalentar el horno a 180º, cortar la masa en galletas, de medio centímetro de grosor, aproximadamente.
+</paso>
+<paso>
+Hornear 7 minutos, dar la vuelta para que se tuesten por el otro lado, y sacar las galletas.
+</paso>
+<paso>
+Ponerlas en una bolsa de congelación con 80 g de azúcar glas, y moverlo bien para que se adhiera a la superficie.
+</paso>
+</pasos>
+</receta>
+</listado>

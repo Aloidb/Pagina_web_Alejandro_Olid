@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="receta.xsl" type="text/xsl" ?>
+<listado>
+<receta referencia="1">
+<titulo>
+PASTA CON SALSA DE COLIFOR Y PIMIENTA DE JAMAICA
+</titulo>
+<descripcion>
+Una salsa vegana para la pasta, tan sabrosa y cremosa que resulta irresistible! Está elaborada con coliflor y con otros ingredientes vegetales, que la convierten en…
+</descripcion>
+<video enlace="https://www.youtube.com/embed/oVDGmdKseC8"/>
+<ingredientes>
+<ingrediente>500g de pasta</ingrediente>
+<ingrediente>500g de carne picada</ingrediente>
+<ingrediente>2 dientes de ajo</ingrediente>
+<ingrediente>1 cebolla</ingrediente>
+<ingrediente>Un puñado de queso rallado</ingrediente>
+<ingrediente>Sal y pimienta</ingrediente>
+<ingrediente>Aceite</ingrediente>
+</ingredientes>
+<tiempo>
+30 minutos
+</tiempo>
+<pasos>
+<paso>
+Comenzaremos picando la cebolla menuda así como los dientes de ajo. Limpiamos y cortamos las setas en trozos pequeños.
+</paso>
+<paso>
+En una sartén calentamos el aceite y sofreímos la cebolla y el ajo hasta que esté esta última transparente. Añadimos las setas, removemos y las salteamos. Una vez hechas vertemos el vino blanco seco y dejamos que se evapore durante tres o cuatro minutos, añadimos la nata líquida, salpimentamos y dejamos reducir durante diez minutos a fuego suave.
+</paso>
+<paso>
+Mientras que se termina de hacer la salsa, ponemos una olla alta con abundante agua con sal al fuego y cocemos la pasta según el tipo e instrucciones del fabricante. La escurrimos y servimos con la salsa bien caliente.
+</paso>
+<paso>
+Este plato de pasta con salsa de setas es lo suficientemente contundente, pero si sois muy queseros podeis añadirle parmesano rallado. También un poco de pimienta espolvoreada en fresco le dará un punto especial a la hora de degustarla.
+</paso>
+</pasos>
+<fotos_pasos>
+<foto_paso ruta="../Imagenes/cebollas.jpg" width="100%"/>
+<foto_paso ruta="../Imagenes/cebollafrita.jpg" width="100%"/>
+<foto_paso ruta="../Imagenes/pasta-en-la-olla.jpg" width="100%"/>
+<foto_paso ruta="../Imagenes/Pasta.jpg" width="100%"/>
+</fotos_pasos>
+</receta>
+</listado>

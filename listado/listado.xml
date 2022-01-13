@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="listado.xsl" type="text/xsl" ?>
+<listado>
+<receta>
+<titulo>
+PASTA CON SALSA DE COLIFOR Y PIMIENTA DE JAMAICA
+</titulo>
+<foto ruta="../Imagenes/Pasta.jpg" width="100%"/>
+<descripcion>
+¿Te apetece pasta con un toque exótico?
+</descripcion>
+<tiempo>
+30 minutos
+</tiempo>
+<dificultad>
+Easy
+</dificultad>
+<vegetariana>
+Si
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+CALABACINES RELLENOS DE ARROZ NEGRO Y CALABAZA
+</titulo>
+<foto ruta="../Imagenes/calabacines.jpg" width="100%"/>
+<descripcion>
+Pertenece a nuestra cocina tradicional y se consume durante todo el año.
+</descripcion>
+<tiempo>
+45 minutos
+</tiempo>
+<dificultad>
+Hard
+</dificultad>
+<vegetariana>
+Si
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+GALLETAS DE AVENA ROSA Y LIMA
+</titulo>
+<foto ruta="../Imagenes/galletas.jpg" width="100%"/>
+<descripcion>
+¿Galletitas para San Valentín?
+</descripcion>
+<tiempo>
+30 minutos
+</tiempo>
+<dificultad>
+Cocinillas
+</dificultad>
+<vegetariana>
+Si
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+MIJO CREMOSO CON LENTEJAS, HORTALIZAS Y SHIITAKE
+</titulo>
+<foto ruta="../Imagenes/mijo.jpg" width="100%"/>
+<descripcion>
+¿Te apetece pasta con un toque exótico?
+</descripcion>
+<tiempo>
+30 minutos
+</tiempo>
+<dificultad>
+Cocinillas
+</dificultad>
+<vegetariana>
+Si
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+KEBAB TÍPICO DE TURQUÍA
+</titulo>
+<foto ruta="../Imagenes/kebab.jpg" width="100%"/>
+<descripcion>
+Doner kebab se trata de un plato contundente en el que el protagonista es la carne.
+</descripcion>
+<tiempo>
+1 hora
+</tiempo>
+<dificultad>
+Hard
+</dificultad>
+<vegetariana>
+No
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+POLLO PROSTER CASERO
+</titulo>
+<foto ruta="../Imagenes/pollo_broster.jpg" width="100%"/>
+<descripcion>
+Un modo de cocinar el pollo muy sabroso, con sabores tradicionales americanos, y de países como Perú o Estados Unidos.
+</descripcion>
+<tiempo>
+45 minutos
+</tiempo>
+<dificultad>
+Cocinillas
+</dificultad>
+<vegetariana>
+No
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+POLLO AL HORNO
+</titulo>
+<foto ruta="../Imagenes/pollo_horno.jpg" width="100%"/>
+<descripcion>
+Plato típico y receta muy simple en cuanto a su elaboración.
+</descripcion>
+<tiempo>
+120 minutos
+</tiempo>
+<dificultad>
+Cocinillas
+</dificultad>
+<vegetariana>
+No
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+FRAPUCCINO DE STARBUCKS
+</titulo>
+<foto ruta="../Imagenes/frappuccino.jpg" width="100%"/>
+<descripcion>
+Disfrutar de tu bebida favorita en cualquier momento del día y en cualquier lugar.
+</descripcion>
+<tiempo>
+45 minutos
+</tiempo>
+<dificultad>
+Cocinillas
+</dificultad>
+<vegetariana>
+No
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+HAMBURGUESA CON SALSA DE YOGUR
+</titulo>
+<foto ruta="../Imagenes/burguer.jpg" width="100%"/>
+<descripcion>
+Disfruta del sorprenderte sabor de la carne acompañado de una suave salsa de yogur con un toque que te encantará.
+</descripcion>
+<tiempo>
+30 minutos
+</tiempo>
+<dificultad>
+Easy
+</dificultad>
+<vegetariana>
+No
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+LASAÑA DE POLLO CASERA
+</titulo>
+<foto ruta="../Imagenes/lasaña.jpg" width="100%"/>
+<descripcion>
+Con la cremosidad de la bechamel y el crujiente del queso gratinado.
+</descripcion>
+<tiempo>
+120 minutos
+</tiempo>
+<dificultad>
+Cocinillas
+</dificultad>
+<vegetariana>
+No
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+ROSCÓN DE REYES</titulo>
+<foto ruta="../Imagenes/roscon.jpg" width="100%"/>
+<descripcion>
+¿Quieres triunfar el Día de Reyes? Te damos todas las claves e ingredientes que necesitas para elaborar el mejor roscón.
+</descripcion>
+<tiempo>
+45 minutos
+</tiempo>
+<dificultad>
+Cocinillas
+</dificultad>
+<vegetariana>
+No
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+TÉ DE JENGIBRE Y MIEL
+</titulo>
+<foto ruta="../Imagenes/te_miel.jpg" width="100%"/>
+<descripcion>
+Un modo de cocinar el pollo muy sabroso, con sabores tradicionales americanos, y de países como Perú o Estados Unidos.
+</descripcion>
+<tiempo>
+45 minutos
+</tiempo>
+<dificultad>
+Easy
+</dificultad>
+<vegetariana>
+No
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+CREMA DE ALCACHOFAS
+</titulo>
+<foto ruta="../Imagenes/crema_alca.jpeg" width="100%"/>
+<descripcion>
+Perfectos para llevar a la oficina o para comer como entrante cuando los días son más fríos.
+</descripcion>
+<tiempo>
+10 minutos
+</tiempo>
+<dificultad>
+Easy
+</dificultad>
+<vegetariana>
+Si
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+MERLUZA EN SALSA DE SIDRA</titulo>
+<foto ruta="../Imagenes/merluza.jpg" width="100%"/>
+<descripcion>
+La merluza en salsa de sidra es un plato 100% asturiano, no solo por contar entre sus ingredientes con la sidra.
+</descripcion>
+<tiempo>
+45 minutos
+</tiempo>
+<dificultad>
+Hard
+</dificultad>
+<vegetariana>
+No
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+CONOS DE CREMA RELLENOS</titulo>
+<foto ruta="../Imagenes/conos.jpg" width="100%"/>
+<descripcion>
+Acompaña tus conos con unas frutas cortadas, ¡triunfarás!
+</descripcion>
+<tiempo>
+30 minutos
+</tiempo>
+<dificultad>
+Cocinillas
+</dificultad>
+<vegetariana>
+Si
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+
+<receta>
+<titulo>
+POLLO AL LIMÓN
+</titulo>
+<foto ruta="../Imagenes/limon.jpg" width="100%"/>
+<descripcion>
+Receta de pollo al limón estilo chino que hoy hemos preparado para celebrar su Año Nuevo.
+</descripcion>
+<tiempo>
+45 minutos
+</tiempo>
+<dificultad>
+Cocinillas
+</dificultad>
+<vegetariana>
+No
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+CREMA DE ZANAHORIA CARAMELIZADA CON MIEL
+</titulo>
+<foto ruta="../Imagenes/crema.jpg" width="100%"/>
+<descripcion>
+No hay mejor receta para un día con mucho frio que la crema de zanahoria caramelizada con miel.
+</descripcion>
+<tiempo>
+20 minutos
+</tiempo>
+<dificultad>
+Easy
+</dificultad>
+<vegetariana>
+Si
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+MANGOS CONGELADOS, RECETA AFRICANA</titulo>
+<foto ruta="../Imagenes/mango.jpg" width="100%"/>
+<descripcion>
+Para un verano caluroso esta receta africana de mangos congelados es la opción perfecta.
+</descripcion>
+<tiempo>
+15 minutos
+</tiempo>
+<dificultad>
+Easy
+</dificultad>
+<vegetariana>
+Si
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+SOLOMILLO ESPECIADO AUSTRALIANO
+</titulo>
+<foto ruta="../Imagenes/austra.jpg" width="100%"/>
+<descripcion>
+La carne de pavo se trata de un alimento lleno de proteínas y nutrientes que debemos aprovechar.
+</descripcion>
+<tiempo>
+50 minutos
+</tiempo>
+<dificultad>
+Cocinillas
+</dificultad>
+<vegetariana>
+No
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+MANITAS DE CERDO AL HORNO
+</titulo>
+<foto ruta="../Imagenes/manitas.jpg" width="100%"/>
+<descripcion>
+Vamos a hacer estas manitas con el mínimo esfuerzo posible, al horno.
+</descripcion>
+<tiempo>
+30 minutos
+</tiempo>
+<dificultad>
+Easy
+</dificultad>
+<vegetariana>
+No
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+GAMBAS SALTEADAS A LA CREMA
+</titulo>
+<foto ruta="../Imagenes/gamba.jpg" width="100%"/>
+<descripcion>
+Esta receta de otoño-invierno, es perfecta para complementar con un vino tinto de buena calidad.
+</descripcion>
+<tiempo>
+30 minutos
+</tiempo>
+<dificultad>
+Easy
+</dificultad>
+<vegetariana>
+No
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+CREMA FRÍA DE MELÓN CON YOGUR
+</titulo>
+<foto ruta="../Imagenes/yogur.jpg" width="100%"/>
+<descripcion>
+La combinación del melón con los lácteos es exótica y novedosa.
+</descripcion>
+<tiempo>
+20 minutos
+</tiempo>
+<dificultad>
+Easy
+</dificultad>
+<vegetariana>
+Si
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+BIZCOCHO DE TURRÓN DE CHOCOLATE
+</titulo>
+<foto ruta="../Imagenes/turron.jpg" width="100%"/>
+<descripcion>
+se prepara en un abrir y cerrar de ojos aprovechando los restos de los ingredientes que esta Navidad
+</descripcion>
+<tiempo>
+20 minutos
+</tiempo>
+<dificultad>
+Cocinillas
+</dificultad>
+<vegetariana>
+Si
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+PASTELITOS DE NATA Y TRUFA
+</titulo>
+<foto ruta="../Imagenes/pastelin.jpg" width="100%"/>
+<descripcion>
+base principal de todo tipo de postres, necesitamos tener siempre en la nevera
+</descripcion>
+<tiempo>
+30 minutos
+</tiempo>
+<dificultad>
+Easy
+</dificultad>
+<vegetariana>
+Si
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+SEGA WAT, CARNE AFRICANA
+</titulo>
+<foto ruta="../Imagenes/wat.jpg" width="100%"/>
+<descripcion>
+La carne de ternera es muy nutritiva, principalmente por su contenido en hierro que ayuda a combatir la anemia.
+</descripcion>
+<tiempo>
+50 minutos
+</tiempo>
+<dificultad>
+Hard
+</dificultad>
+<vegetariana>
+No
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+CARRILLERAS EN SALSA EN OLLA</titulo>
+<foto ruta="../Imagenes/carrilleras.jpg" width="100%"/>
+<descripcion>
+¿Listos para una receta que va a pasar a ser unos de vuestros imprescindibles?
+</descripcion>
+<tiempo>
+20 minutos
+</tiempo>
+<dificultad>
+Cocinillas
+</dificultad>
+<vegetariana>
+No
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+PISTO CON BERENJENA Y BASMATI
+</titulo>
+<foto ruta="../Imagenes/pisto.jpg" width="100%"/>
+<descripcion>
+¿Listos para una receta que va a pasar a ser unos de vuestros imprescindibles?
+</descripcion>
+<tiempo>
+30 minutos
+</tiempo>
+<dificultad>
+Easy
+</dificultad>
+<vegetariana>
+No
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+HOJALDRE RELLENOS DE ESPINACAS
+</titulo>
+<foto ruta="../Imagenes/espinacas.jpg" width="100%"/>
+<descripcion>
+Algo sencillo. Un poco de hojaldre, espinacas, manzanas y un puñado de frutos secos.
+</descripcion>
+<tiempo>
+45 minutos
+</tiempo>
+<dificultad>
+Cocinillas
+</dificultad>
+<vegetariana>
+Si
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+<receta>
+<titulo>
+TARTA DE MOUSSE DE QUESO 
+</titulo>
+<foto ruta="../Imagenes/tarta_queso.png" width="100%"/>
+<descripcion>
+Una tarta natural y fresca que no puede faltar en tu oferta.
+</descripcion>
+<tiempo>
+30 minutos
+</tiempo>
+<dificultad>
+Easy
+</dificultad>
+<vegetariana>
+Si
+</vegetariana>
+<autor>
+Alejandro Olid
+</autor>
+</receta>
+</listado>
